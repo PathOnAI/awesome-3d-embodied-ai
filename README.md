@@ -11,6 +11,16 @@
 * https://github.com/Unity-Technologies/ml-agents/blob/develop/docs/Learning-Environment-Examples.md
 
 
+## AI town
+* 2d ai town
+    *https://github.com/nickm980/smallville
+    * Smallville, Interactive Simulacra of Human Behavior
+    * https://github.com/a16z-infra/ai-town
+* 3d ai town in roblox
+    * https://whitepaper.virtuals.io/agent-ecosystem/roblox-westworld-first-playable-multi-agent-simulation-on-roblox
+    * simulation generates the plan for each person (agent), when executing each step of the plan, the embodied ai agent interacts with objects in the 3d world
+
+
 ## Papers
 * https://arxiv.org/abs/2403.12482
     * multi-agent collaboration in virtual home unity environment
