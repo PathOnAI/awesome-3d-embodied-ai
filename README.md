@@ -20,3 +20,7 @@
     * Mostly just a conversation game agent, although the agent can take the action of opening doors in the escape room for the player if certain responses meet the criteria.
 * https://arxiv.org/abs/2403.11401
     * Scene-LLM: Extending Language Model for 3D Visual Understanding and Reasoning
+* https://aihabitat.org/partnr/
+    * human robot interaction
+    * PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks
+    * this is like virtual home, but with human robot interaction
